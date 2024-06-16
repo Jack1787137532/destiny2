@@ -1,3 +1,5 @@
+title:命运2 DIM愿望单
+description:自用
 //notes:PVE 专业记忆 重建+诱导推销 输出用
 dimwishlist:item=3605603507&perks=1840239774,2420895100,461595545,3744057135
 //notes:PVE 专业记忆 爆破专家+蜻蜓 清怪用+回手雷
